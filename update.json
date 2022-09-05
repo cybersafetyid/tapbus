@@ -3,7 +3,8 @@
   "versionCode": "11",
   "versionName": "0.2.1.05092022R QRIS",
   "versionNotes": [
-    "- Fix minor bugs",
+    "- Fix Jam BV",
+    "- Fix pop up dialog BCA Error",
     "- Fix auto update"
   ]
 }

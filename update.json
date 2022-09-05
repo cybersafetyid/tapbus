@@ -2,5 +2,8 @@
   "apkUrl": "https://github.com/cybersafetyid/tapbus/raw/main/taponbus.apk",
   "versionCode": "11",
   "versionName": "0.2.1.05092022R QRIS",
-  "versionNotes": "- Fix minor bugs\n- Fix auto update"
+  "versionNotes": [
+    "- Fix minor bugs",
+    "- Fix auto update"
+  ]
 }

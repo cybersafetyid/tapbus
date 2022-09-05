@@ -1,5 +1,6 @@
 {
-  "latestVersion": "0.1.0.13122022R QRIS",
-  "latestVersionCode": "10",
-  "url": "https://github.com/cybersafetyid/tapbus"
+  "apkUrl": "https://github.com/cybersafetyid/tapbus/raw/main/taponbus.apk",
+  "versionCode": "11",
+  "versionName": "0.2.1.05092022R QRIS",
+  "versionNotes": "- Fix minor bugs\n- Fix auto update"
 }
